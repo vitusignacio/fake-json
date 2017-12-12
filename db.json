@@ -5,7 +5,7 @@
       "status": "blocked",
       "open_date": "2017-12-13",
       "close_date": "2017-12-20",
-      "booked_on": "airbnb",
+      "booked_on": "stayjapan",
       "guest_full_name": "Unavailable Date"
     },
     {
@@ -117,7 +117,7 @@
       "status": "blocked",
       "open_date": "2018-02-14",
       "close_date": "2018-02-14",
-      "booked_on": "airbnb",
+      "booked_on": "agoda",
       "guest_full_name": "Unavailable Date"
     },
     {
@@ -159,7 +159,7 @@
       "status": "blocked",
       "open_date": "2018-03-23",
       "close_date": "2018-03-31",
-      "booked_on": "airbnb",
+      "booked_on": "booking_com",
       "guest_full_name": "Unavailable Date"
     },
     {
@@ -173,7 +173,7 @@
       "status": "blocked",
       "open_date": "2018-04-10",
       "close_date": "2018-07-18",
-      "booked_on": "airbnb",
+      "booked_on": "homeaway",
       "guest_full_name": "Unavailable Date"
     },
     {
